@@ -1,0 +1,29 @@
+﻿Ticket:<codigo>
+
+----------------------------------------
+
+Cupom de Estacionamento
+
+----------------------------------------
+
+Parking Online - Pelotas
+
+Placa: <placa>
+
+Tipo: <tipo>
+
+Modelo: <modelo>
+
+Data: <data>
+
+Hora Entrada: <hentrada>
+
+Hora Saída: <hsaida>
+
+Permanência: <tempo>
+
+----------------------------------------
+
+Valor: R$<valor>
+
+----------------------------------------
